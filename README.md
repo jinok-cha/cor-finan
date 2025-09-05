@@ -1,1 +1,1 @@
-# corporate-financial
+# cor-finan
